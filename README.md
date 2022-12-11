@@ -1,0 +1,2 @@
+# chatgpt-bookmark
+ChatGPTの出力結果を保存するブックマーク機能を実装する
